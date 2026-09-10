@@ -4,7 +4,7 @@ export default function Navbar() {
       <div className="mx-auto flex h-14 items-center justify-between px-4 sm:px-6">
         <div className="flex items-center gap-2">
           <span className="text-lg font-bold tracking-tight text-zinc-900 dark:text-zinc-50">
-            WikiFeed
+            Wikid
           </span>
         </div>
 
